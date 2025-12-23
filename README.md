@@ -98,6 +98,6 @@ SQL Server | SSIS | SSRS | Power BI (DAX) | Python (Flask)
 ## 📽 Project Presentation
 
 The full project presentation (PDF) is available here:  
-👉 [View Presentation]([PUT_LINK_HERE](https://drive.google.com/file/d/1EZuG9YlVya2TYle7J2v7eF4faaYTTZ6z/view?usp=sharing))
+👉 [View Presentation](https://drive.google.com/file/d/1EZuG9YlVya2TYle7J2v7eF4faaYTTZ6z/view?usp=sharing)
 
 
