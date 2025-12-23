@@ -91,3 +91,10 @@ SQL Server | SSIS | SSRS | Power BI (DAX) | Python (Flask)
 ---
 
 **This system doesn’t just grade exams; it measures the career impact of ITI education.**
+---
+
+## 📽 Project Presentation
+
+The full project presentation (PDF) is available here:  
+👉 [View Presentation](file:///C:/Power%20Bi/Graduation%20Project/Project%20Update%20-%20Final/ITI%20Examination%20System.pdf)
+
